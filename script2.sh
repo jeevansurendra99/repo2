@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Welcome to script1"
+echo "Welcome to script2"
